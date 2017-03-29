@@ -6,4 +6,5 @@ once more
 more....
 helooooo
 hiiii
+automate
 
