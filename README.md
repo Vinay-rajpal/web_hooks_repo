@@ -19,3 +19,4 @@ test
 jenkins
 job
 new pull request
+changes in readme
