@@ -10,3 +10,4 @@ automate
 jenkins
 checking
 jenkins
+automating
