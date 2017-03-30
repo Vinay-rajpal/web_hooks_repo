@@ -13,3 +13,4 @@ jenkins
 automating
 job
 final
+check
