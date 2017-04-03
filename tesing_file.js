@@ -7,3 +7,4 @@ done in test file
 some more changes
 testingf ga
 final check
+Changes in testfile.js 
